@@ -1,7 +1,7 @@
 remote_theme: eliottvincent/bay
 
 header: Sofia Andrade
-  pages:
+ pages:
     - name: Bio
       slug: /     # <-- index.md
     - name: Blog  # <-- blog.md
