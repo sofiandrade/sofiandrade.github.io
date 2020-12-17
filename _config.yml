@@ -1,3 +1,7 @@
 remote_theme: eliottvincent/bay
-title: Sofia Andrade
-description: Writing Portfolio
+header: Sofia Andrade
+  pages:
+    - name: Bio
+      slug: /     # <-- index.md
+    - name: Blog  # <-- blog.md
+    - name: Whatever  # <-- whatever.md
