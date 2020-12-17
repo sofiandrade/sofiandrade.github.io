@@ -4,9 +4,9 @@ header: Sofia Andrade
 
 pages:
     - name: Bio
-      slug: /     # <-- index.md
-    - name: Blog  # <-- blog.md
-    - name: Whatever  # <-- whatever.md
+      slug: /
+    - name: Blog
+    - name: Whatever
 
 footer:
   show_powered_by: true
