@@ -6,5 +6,5 @@ profile_picture:
 ---
 
 <p>
-  Welcome to mysite!
+  Sofia Andrade is a journalist and student at Harvard University.
 </p>
