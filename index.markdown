@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: https://files.slack.com/files-pri/T0154KQ3KLL-F01HC7JC85A/image_from_ios.jpg?pub_secret=04675588c1
+  src: https://files.slack.com/files-pri/T0154KQ3KLL-F01H30HSA9K/profile_picture.jpg?pub_secret=9f547311c1
   alt: website picture
 
 ---
