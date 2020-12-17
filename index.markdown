@@ -16,5 +16,5 @@ She is also a journalist, writing most about music, art, culture, and politics.
 <p>
   
 <p>
-Most recently, she worked as a reporter with <a href=https://www.whowhatwhy.org/author/sofia-andrade> WhoWhatWhy </a>, where she covered Florida politics and election integrity leading up to the 2020 election. She also serves as a staff writer at the Harvard Crimson, the Harvard Political Review, and Pure Nowhere Magazine. 
+Most recently, she worked as a reporter with <a href=https://www.whowhatwhy.org/author/sofia-andrade>WhoWhatWhy</a>, where she covered Florida politics and election integrity leading up to the 2020 election. She also serves as a staff writer at the Harvard Crimson, the Harvard Political Review, and Pure Nowhere Magazine. 
 </p>
