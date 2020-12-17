@@ -5,3 +5,16 @@ header: Sofia Andrade
       slug: /     # <-- index.md
     - name: Blog  # <-- blog.md
     - name: Whatever  # <-- whatever.md
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: sofi.andrade10@gmail.com
+      link: mailto:sofi.andrade10gmail.com
+  follow:
+    - name: Twitter
+      link: http://twitter.com/SofiaAndrade__
+      username: "@SofiaAndrade__"
+    - name: LinkedIn
+      link: http://linkedin.com/in/sofia-andrade1
