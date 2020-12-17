@@ -6,7 +6,11 @@ profile_picture:
 ---
 
 <p>
-Sofia Andrade is a journalist and student at Harvard University, where she is pursuing a joint concentration in History & Literature and Art, Film, & Visual Studies. As a journalist, she has covered a broad range of topics — from anti-Blackness in Miami's Latinx communities to hypermasculinity in young Republicans, and from sexual assault in the indie music scene to the complexities of Cuban American political identity. 
+Sofia Andrade is a journalist and student at Harvard University, where she is pursuing a joint concentration in History & Literature and Art, Film, & Visual Studies. 
+<p>
+
+<p>
+As a journalist, she has covered a broad range of topics — from anti-Blackness in Miami's Latinx communities to hypermasculinity in young Republicans, and from sexual assault in the indie music scene to the complexities of Cuban American political identity. 
 <p>
   
 <p>
