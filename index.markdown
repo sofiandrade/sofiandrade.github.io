@@ -5,7 +5,7 @@ profile_picture:
   alt: website picture
 
 ---
-<h1> About Sofia </h1>
+<h1> About Sofia  SOFIA ANDRADE</h1>
   
 <p> 
 Born and raised in Miami, FL, Sofia Andrade is the daughter of Ecuadorian immigrants and a first-generation college student at Harvard University, where she is pursuing a joint concentration in History & Literature and Art, Film, & Visual Studies. 
